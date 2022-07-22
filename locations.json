@@ -1,0 +1,86 @@
+{
+    "result": 200,
+    "time": 1786214863,
+    "token": "8za4d51fdf48",
+    "location": {
+      "data": [
+        {
+          "uid": 12486,
+          "registration": "AA-785-AA",
+          "uid_parent": 987,
+          "uid_symbol": 7,
+          "summary": "Peugeot Boxer",
+          "available": "Y",
+          "uid_picture": {
+            
+          },
+          "serial_number": {
+            
+          },
+          "mileage": 0,
+          "engine": 3000,
+          "device_type": 0,
+          "dev_hw_id": "string",
+          "gps_sat_used": 100,
+          "speed_max": 0,
+          "special_flag": 0,
+          "last_data_timestamp": 1789553,
+          "device_log": 1852385,
+          "first_day_trip": 1958749,
+          "last_trip_stop": 1958774,
+          "last_trip_start": 1346857,
+          "location_date": 3852674,
+          "longitude": -0.8577,
+          "latitude": 44.58,
+          "speed_current": 0,
+          "input": 2,
+          "course": 0,
+          "csq": 19,
+          "entry_state": 2,
+          "tilt_pitch": {
+            
+          },
+          "tilt_roll": {
+            
+          },
+          "status": 0,
+          "uid_driver": "string",
+          "driver_name": "string",
+          "driver_phone": "string",
+          "battery_level": {
+            
+          },
+          "battery_volt": {
+            
+          },
+          "battery_last_timestamp": {
+            
+          },
+          "address": "16 rue de Chavailles, 33520 Bruges",
+          "hardware": "string",
+          "available_interval": {
+            
+          },
+          "current_interval": {
+            
+          },
+          "poi": {
+            
+          },
+          "uid_zoi": 0,
+          "keywords": 47,
+          "temperature": {
+            
+          },
+          "locking_request_type": "string",
+          "locking_request_status": "string",
+          "shipping_code": "string"
+        }
+      ],
+      "summary": [
+        {
+          
+        }
+      ]
+    }
+  }
